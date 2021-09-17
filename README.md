@@ -1,2 +1,3 @@
 # TemperMonkyScripts
-一些自己写的油猴插件
+CSDN优雅美化脚本,去广告，保留了导航栏
+
